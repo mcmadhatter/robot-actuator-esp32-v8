@@ -1,3 +1,9 @@
+# Dev Actuator branch
+
+~ This branch is just for the CAD developement of the larger actuator. It is a work in progress and is not yet ready for printing. Please feel free to add comments/constructive critisim to the issus list.
+
+
+
 # robot-actuator-esp32-v8
 This is the repo for the robot actuator v8 based on an ESP32 as the brains of each robot arm actuator.
 
